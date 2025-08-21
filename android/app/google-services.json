@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418451525572",
+    "project_id": "solar-panels-6134a",
+    "storage_bucket": "solar-panels-6134a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418451525572:android:e70970cd13803fe9085e91",
+        "android_client_info": {
+          "package_name": "com.example.solar_clean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418451525572-pd0vfh0ldth6ddrlj2fd6mblislrun3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxaR8fRhL03SkB7bIZHGja1M-D9H8-6mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418451525572-pd0vfh0ldth6ddrlj2fd6mblislrun3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
